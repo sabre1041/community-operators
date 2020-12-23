@@ -695,5 +695,4 @@ spec:
   maturity: alpha
   provider:
     name: Red Hat Community of Practice
-  replaces: group-sync-operator.v0.0.3
   version: 0.0.5
